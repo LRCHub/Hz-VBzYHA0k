@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ミュージック",
   "base_artist": "サカナクション",
-  "createdAt": "2025-12-11T17:42:37.227579Z",
+  "createdAt": "2026-03-22T01:20:11.750655Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -163,6 +163,24 @@
       "artist": "サカナクション",
       "has_synced": false,
       "path": "select/pl_01_ミュージック_サカナクション.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ミュージック",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_01_ミュージック_サカナクション.lrc",
+      "repo_name": "Hz-VBzYHA0k"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ミュージック",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_02_ミュージック_サカナクション.lrc",
+      "repo_name": "iVstp5Ozw2o"
     }
   ]
 }
